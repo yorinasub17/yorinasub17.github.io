@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes for the future me</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Dec 2014 21:43:20 -0800</pubDate>
+    <lastBuildDate>Fri, 26 Dec 2014 21:43:20 -0800</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>People Leader vs. Technical Leader</title>
+        <description>&lt;p&gt;Before I started working at Captricity, I was an ignorant, know-nothing, over
+confident college kid who thought that the only destination in an engineering
+career is management. I thought that all engineers ended their career as
+engineering managers, trading code with meetings. Having always loved the
+problem solving aspect of coding, I dreaded the thought of work days full of
+meetings. Little did I know, within one year of graduation, I ended up at the
+base of the management track leading a team of 4 engineers at Captricity.&lt;/p&gt;
+
+&lt;p&gt;At the time, I was not prepared to become an engineering manager. One year of
+experience taught me nothing about management. I knew little about running
+meetings, or making important tradeoffs around engineering resources. I
+struggled to find the right balance between delegating various tasks to stay
+hands off and jumping right in to implement the solution myself. In the end, I
+defaulted to taking on the “dirty work” (work that no one liked) while handing
+off the fun stuff to my peers. While this cleared the path for most of my peers
+to have uninterrupted bursts of work, I was left with an unhappy work
+environment fixing more bugs than shipping features.&lt;/p&gt;
+
+&lt;p&gt;I also spent more time in conference rooms than at my desk coding. I was
+brought in on all high level design discussions to act as a “technical
+advisor,” making comments on how things should be built, even though I was not
+the one to execute the implementation. While the majority of the times my
+comments were appreciated by the team (thank god), in some cases, they were
+considered out of touch. These times were definitely not the most fun I’ve had
+in my career.&lt;/p&gt;
+
+&lt;p&gt;However, over the course of one year, I learned completely new skillsets
+unrelated to coding. I learned how to read resumes, interview people, do
+reference checks, resolve cross departmental conflicts, propose product
+features, facilitate meetings, prioritize features, and spec out multi service
+architectures. I stopped taking on bugs and started to distribute the load. I
+took on larger projects where my experience would help, and acted as a mentor
+providing insight into legacy code bases to the junior members of the team.
+With each management struggle, I came out better, learning what not to do as a
+manager (as well as what I should do). Nowadays, I feel less of the negativity
+towards management and I am even starting to enjoy some aspects of it. Of
+course, I still don’t consider myself a great manager: I think it takes years
+for one to become a world class leader.&lt;/p&gt;
+
+&lt;p&gt;The biggest thing I learned, however, is that management is not for everyone.
+Not everyone should, and can become a manager. Sometimes, people are better
+utilized as a coder. I learned that some people are damn good at coding and
+fully up to date even after 20+ years in the field (like &lt;a href=&quot;https://captricity.com/blog/meet-team-captricity-angshuman-angshu-guha/&quot;&gt;our Chief
+Scientist&lt;/a&gt;,
+who is now my role model). And they should be respected as such, being
+considered as valuable and as experienced as someone high on the management
+track.&lt;/p&gt;
+
+&lt;p&gt;Management is not the be all, end all goal of the technical ladder. People
+should always be given a choice between being a people leader, and a technical
+leader that advances and innovates the technology, as opposed to the people. As
+for myself, I’m still searching for answers.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Dec 2014 12:39:36 -0800</pubDate>
+        <link>http://localhost:4000/coding/management/2014/12/26/people-leader-technical-leader/</link>
+        <guid isPermaLink="true">http://localhost:4000/coding/management/2014/12/26/people-leader-technical-leader/</guid>
+        
+        
+        <category>coding</category>
+        
+        <category>management</category>
+        
+      </item>
+    
+  </channel>
+</rss>
