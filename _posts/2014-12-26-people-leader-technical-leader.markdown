@@ -2,6 +2,7 @@
 layout: post
 title:  "People Leader vs. Technical Leader"
 date:   2014-12-26 20:39:36
+disqus_identifier: 20141226
 categories: coding management
 ---
 

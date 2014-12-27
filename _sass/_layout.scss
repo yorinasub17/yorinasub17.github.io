@@ -238,3 +238,20 @@
         }
     }
 }
+
+#comment {
+    margin-top: 30px;
+}
+
+#comment-head {
+    margin-bottom: 15px;
+
+    .title {
+        display: inline;
+    }
+    .social {
+        display: inline-block;
+        float: right;
+        line-height: 36px;
+    }
+}
