@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Becoming a Tech Lead"
-date:   2015-03-14 00:00:00
-disqus_identifier: 20150314
+date:   2015-03-29 00:00:00
+disqus_identifier: 20150329
 categories: coding management
 ---
 
@@ -15,4 +15,4 @@ a tech lead. Although it is not as expansive as Patrick's book, I hope it gives
 an idea of what it's like to become a tech lead in a very young company
 dominated by junior developers who are rapidly growing with the company.
 
-Read the full post on the Captricity site.
+Read [the full post](https://captricity.com/blog/captricity-engineering-insights-becoming-a-tech-lead/) on the Captricity site.
